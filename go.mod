@@ -1,7 +1,6 @@
 module github.com/TwiN/gatus/v5
 
 go 1.24.1
-
 require (
 	code.gitea.io/sdk/gitea v0.19.0
 	github.com/TwiN/deepmerge v0.2.2
@@ -18,7 +17,7 @@ require (
 	github.com/ishidawataru/sctp v0.0.0-20230406120618-7ff4192f6ff2
 	github.com/lib/pq v1.10.9
 	github.com/miekg/dns v1.1.64
-	github.com/prometheus-community/pro-bing v0.5.0
+	github.com/prometheus-community/pro-bing v0.6.1
 	github.com/prometheus/client_golang v1.20.5
 	github.com/valyala/fasthttp v1.58.0
 	github.com/wcharczuk/go-chart/v2 v2.1.2
